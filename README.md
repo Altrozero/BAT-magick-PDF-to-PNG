@@ -19,7 +19,7 @@ Windows Batch file for converting a PDF to PNG. Plus handy install script / exe 
 # Step 1-2 (Install Programs)
 Image Magick is the exe we use to convert it. <https://www.imagemagick.org/>
 
-It requires GhostScript to hangle PDFs
+It requires GhostScript to handle PDFs <https://www.ghostscript.com/>
 
 # Step 3 (Find the Magick install location)
 Edit line 9 parameter 1 to point to install location of magick.exe
