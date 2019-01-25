@@ -1,5 +1,5 @@
 # BAT-magick-PDF-to-PNG
-Instructions on how to convert a PDF to PNG on windows with magick, ghostscript.
+Windows Batch file for converting a PDF to PNG. Plus handy install script / exe of files required to get up and running.
 
 "Installer" also added registry entries to update right click context menu.
 
@@ -37,3 +37,24 @@ Create Key HKEY_CLASSES_ROOT\SystemFileAssociations\.pdf\shell\pdf2png\command g
 # Step 6 (Pray)
 Right click on a PDF file
 Click the context menu you've added (if it's there, it not Stack Overflow)
+
+# Third Party Software
+## Image Magick
+Licensed under the ImageMagick License (the "License"); you may not use
+   this file except in compliance with the License.  You may obtain a copy
+   of the License at
+
+     https://imagemagick.org/script/license.php
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+   WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
+   License for the specific language governing permissions and limitations
+   under the License.
+   
+## Ghostscript
+Ghostscript is made by Artifex
+
+https://www.ghostscript.com/license.html
+
+https://www.gnu.org/licenses/agpl-3.0.html
