@@ -1,0 +1,3 @@
+https://www.ghostscript.com/license.html
+
+https://www.gnu.org/licenses/agpl-3.0.html
