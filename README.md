@@ -36,6 +36,7 @@ Create Key HKEY_CLASSES_ROOT\SystemFileAssociations\.pdf\shell\pdf2png\command g
 
 # Step 6 (Pray)
 Right click on a PDF file
+
 Click the context menu you've added (if it's there, it not Stack Overflow)
 
 # Third Party Software
