@@ -2,7 +2,7 @@ ECHO OFF
 SET fileName=%~n1
 SET fileExtension=%~x1
 
-IF "%fileExtension%" NEQ ".pdf" (
+IF /I "%fileExtension%" NEQ ".pdf" (
 	exit
 )
 
